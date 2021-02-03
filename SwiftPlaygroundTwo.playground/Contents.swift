@@ -42,3 +42,59 @@ else
 
 //part 5
 
+//problem set 1
+
+var firstNumber = 8
+
+var secondNumber = 10
+
+if firstNumber > secondNumber
+{
+    print("True")
+    
+}
+else
+{
+    print("False")
+}
+
+
+
+//part 6
+//problem set 2
+
+var firstWord = "Bananas are yellow, "
+var secondWord = "I like eating them."
+
+if firstWord != secondWord
+{
+    print(firstWord +  secondWord)
+    
+}
+else
+{
+    print("False")
+}
+
+//part 7
+//problem set 3
+
+let saladIsGood = true
+let burgerIsGood = false
+
+if saladIsGood == false
+{
+    print("I'm being forced on a vegan diet")
+    
+}
+else
+{
+    print("I love meat")
+}
+
+
+
+
+
+
+
